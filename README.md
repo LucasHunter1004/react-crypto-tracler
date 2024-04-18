@@ -11,4 +11,4 @@
 
 ## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
 
-MIT © [Piyush Agarwal ](https://github.com/LucasHunter1004)
+MIT © [Lucas Hunter ](https://github.com/LucasHunter1004)
