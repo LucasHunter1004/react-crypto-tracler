@@ -2,7 +2,7 @@
 
 ## [Watch Full Tutorial on Youtube here]
 
-[![crypto](https://user-images.githubusercontent.com/51760520/136682357-5d269bb9-0e36-4f26-a468-fb2963dd9468.png)](https://yout u.be/QA6oTpMZp84)
+[![crypto](https://)](https://yout u.be/QA6oTpMZp84)
 
 ## Demo
 #### Here is a working live demo :  https://crypto-hunter.netlify.app/
@@ -15,6 +15,6 @@
 
 ## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/LucasHunter1004)
+[![Piyush Agarwal]](https://github.com/LucasHunter1004)
 
 MIT © [Piyush Agarwal ](https://github.com/LucasHunter1004)
