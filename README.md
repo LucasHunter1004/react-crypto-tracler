@@ -1,9 +1,5 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
-## [Watch Full Tutorial on Youtube here]
-
-[![crypto](https://)](https://yout u.be/QA6oTpMZp84)
-
 ## Demo
 #### Here is a working live demo :  https://crypto-hunter.netlify.app/
 
@@ -14,7 +10,5 @@
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
 ## Made with ♥ By [Roadside Coder](https://www.youtube.com/channel/UCIPZVAwDGa-A4ZJxCBvXRuQ)
-
-[![Piyush Agarwal]](https://github.com/LucasHunter1004)
 
 MIT © [Piyush Agarwal ](https://github.com/LucasHunter1004)
